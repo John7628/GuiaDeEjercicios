@@ -14,4 +14,8 @@ El ciclismo es una actividad de bajo impacto que mejora la resistencia cardiovas
 2. Pedalea a un ritmo moderado a intenso durante 30-60 minutos.
 3. Enfriamiento con pedaleo suave y estiramientos.
 
+## Consejos
+- Mantén una postura correcta en la bicicleta.
+- Varía la intensidad subiendo y bajando colinas o alternando la velocidad.
+- Bebe agua regularmente durante el ejercicio.
 
