@@ -8,3 +8,8 @@ El entrenamiento funcional trabaja todo el cuerpo con movimientos que simulan la
 - Aumenta la fuerza funcional.
 - Favorece la movilidad.
 - Previene lesiones en actividades cotidianas.
+
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos.
+2. Realiza movimientos compuestos como sentadillas, levantamiento de objetos y desplazamientos durante 30-40 minutos.
+3. Enfriamiento con estiramientos y respiración.
