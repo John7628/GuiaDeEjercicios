@@ -9,3 +9,7 @@ El CrossFit es un entrenamiento de alta intensidad que combina levantamiento de 
 - Favorece la pérdida de peso y tonificación muscular.
 - Incrementa la agilidad y la flexibilidad.
 
+## Instrucciones
+1. Comienza con un calentamiento de 5-10 minutos, incluyendo movilidad articular.
+2. Realiza una serie de ejercicios funcionales como sentadillas, burpees, saltos y levantamiento de pesas.
+3. Termina con un enfriamiento y estiramientos.
